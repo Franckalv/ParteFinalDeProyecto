@@ -18,3 +18,9 @@ https://trello.com/b/9R9Xte6c/entrega-final-del-proyecto
 
 Link al manual de usuarios: 
 https://github.com/Franckalv/ParteFinalDeProyecto/blob/main/MANUAL%20DE%20USUARIO.pdf
+
+Link al código base del programa:
+https://github.com/Franckalv/ParteFinalDeProyecto/blob/main/main.cs
+
+Link al vídeo demostrativo y explicativo del programa:
+
