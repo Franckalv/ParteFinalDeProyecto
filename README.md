@@ -23,4 +23,6 @@ Link al código base del programa:
 https://github.com/Franckalv/ParteFinalDeProyecto/blob/main/main.cs
 
 Link al vídeo demostrativo y explicativo del programa:
-
+https://github.com/Franckalv/ParteFinalDeProyecto/blob/main/20210512_005018000_iOS%201.mov
+https://github.com/Franckalv/ParteFinalDeProyecto/blob/main/20210512_005018000_iOS%202.mov
+https://github.com/Franckalv/ParteFinalDeProyecto/blob/main/20210512_005018000_iOS.mov
